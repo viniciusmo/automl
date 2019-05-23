@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">automl</string>
+    <string name="error_permission">Sem essa permissão não é possível continuar.</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132543006182",
+    "firebase_url": "https://auto-ml-playground.firebaseio.com",
+    "project_id": "auto-ml-playground",
+    "storage_bucket": "auto-ml-playground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132543006182:android:ae36b0e1eedc6ceb",
+        "android_client_info": {
+          "package_name": "com.github.viniciusmo.automl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132543006182-nm42p20ep33jrgnreblg5ir1vjgjii4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyij_TF7o2t5lCa-9XAjxa_LIeUhgJiiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132543006182-nm42p20ep33jrgnreblg5ir1vjgjii4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
